@@ -22,7 +22,7 @@ header:
 }
 .fa-github {
  background: #000;
-  color: black;
+  color: white;
 }
 .fa-facebook {
   background: #3B5998;
