@@ -8,7 +8,7 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 <style>
-.fa .fab {
+.fa, .fab {
   padding: 10px;
   font-size: 20px;
   width: 40px;
@@ -17,12 +17,12 @@ header:
   margin: 5px 2px;
 }
 
-.fa:hover .fab:hover {
+.fa:hover, .fab:hover {
     opacity: 0.7;
 }
 .fa-github {
- background: #0000;
-  color: white;
+ background: #cb2027;
+  color: black;
 }
 .fa-facebook {
   background: #3B5998;
