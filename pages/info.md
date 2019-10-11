@@ -21,7 +21,7 @@ header:
     opacity: 0.7;
 }
 .fa-github {
- background: #cb2027;
+ background: #000;
   color: black;
 }
 .fa-facebook {
@@ -135,9 +135,9 @@ header:
 
 **Full name:** Cao Hoàng Tiến (Tien Cao-hoang)
 
-**Social:**  <a href="https://facebook.com/tien.cao.71" class="fa fa-facebook"></a>
-<a href="https://twitter.com/chtien18" class="fa fa-twitter"></a>
-<a href="https://www.linkedin.com/in/chtien/" class="fa fa-linkedin"></a>
+**Social:**  <a href="https://facebook.com/tien.cao.71" class="fab fa-facebook"></a>
+<a href="https://twitter.com/chtien18" class="fab fa-twitter"></a>
+<a href="https://www.linkedin.com/in/chtien/" class="fab fa-linkedin"></a>
 <a href="https://github.com/chtien18/chtien18.github.io" class="fab fa-github"></a>
 
 **Affiliation:** Tien Cao-hoang is lecturer at [Can Tho University](http://ctu.edu.vn/en)
