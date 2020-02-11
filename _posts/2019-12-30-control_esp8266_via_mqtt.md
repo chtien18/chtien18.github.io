@@ -1,4 +1,9 @@
-
+---
+layout: page-fullwidth
+title: "control ép8266 via mqtt protcol"
+header:
+    image_fullwidth: "header_drop.jpg"
+---
 ## Control Relay Using ESP8266 via MQTT
 >Hardware
 * ESP8266 board
