@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "control ép8266 via mqtt protcol"
+title: "control a relay using esp8266 via mqtt protcol"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
