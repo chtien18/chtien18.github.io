@@ -5,14 +5,16 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 ## Control Relay Using ESP8266 via MQTT
->Hardware
+### Hardware
 * ESP8266 board
 * Relay module
 * Smart Phone (Andoid or IOS)
 
-> Code:
-```
+### Code:
+
+~~~
 #include <ESP8266WiFi.h>
+
 #include <PubSubClient.h>
 
 // Update these with values suitable for your network.
@@ -111,4 +113,4 @@ void loop() {
   client.loop();
 
 }
-```
+~~~
