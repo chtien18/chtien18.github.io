@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title:  " Tin học căn bản - Phần Word 02"
+title:  " Tin học căn bản - Phần Excel 01"
 subheadline:  " "
 teaser: "tin học căn bản"
 categories: 
@@ -47,5 +47,6 @@ Một số thao tác với bảng, trộn thư, Style, tạo mục lục, vẽ h
 49:34 Hàm điều kiện IF(điều kiện, kết quả nếu điều kiện đúng, kết quả nếu điều kiện sai)
 
 55:10 Hàm làm tròn ROUND
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R34lVmJtFUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
