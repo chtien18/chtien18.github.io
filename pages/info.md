@@ -147,6 +147,8 @@ header:
 [Scopus review](https://www.scopus.com/authid/detail.uri?authorId=57194439094),
 [Google Scholar](https://scholar.google.com.vn/citations?user=E6qOG58AAAAJ&hl=en)
 
+**Membership:**
+[INSTICC](http://www.insticc.org/Portal/home.aspx)
 **Curriculum:**
 
 Tien Cao-hoang obtained his Master degree in Automatic Control Engineering in February 2014 at Faculty of Electrical & Electronics Engineering, [Ho Chi Minh City University of Technology](http://www.hcmut.edu.vn/en), Ho Chi Minh city, Vietnam. From 2012, he has been working as a lecturer at [Can Tho University](http://ctu.edu.vn/en). His research interests include internet of things, comunication technology, automatic control system and cloud computing, as well as their applications in wireless sensor network, embedded system, programmable logic controller etc.
