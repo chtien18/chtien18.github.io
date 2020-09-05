@@ -140,7 +140,7 @@ header:
 <a href="https://www.linkedin.com/in/chtien/" class="fab fa-linkedin"></a>
 <a href="https://github.com/chtien18/chtien18.github.io" class="fab fa-github"></a>
 
-**Affiliation:** Tien Cao-hoang is lecturer at [Can Tho University](http://ctu.edu.vn/en)
+**Affiliation:** Tien Cao-hoang is lecturer and researcher at [Can Tho University](http://ctu.edu.vn/en)
 
 **Research ID:**  [ORCID](http://orcid.org/0000-0001-9863-2716), 
 [Researcher ID](http://www.researcherid.com/rid/M-3147-2017), 
@@ -149,6 +149,7 @@ header:
 
 **Membership:**
 [INSTICC](http://www.insticc.org/Portal/home.aspx)
+
 **Curriculum:**
 
 Tien Cao-hoang obtained his Master degree in Automatic Control Engineering in February 2014 at Faculty of Electrical & Electronics Engineering, [Ho Chi Minh City University of Technology](http://www.hcmut.edu.vn/en), Ho Chi Minh city, Vietnam. From 2012, he has been working as a lecturer at [Can Tho University](http://ctu.edu.vn/en). His research interests include internet of things, comunication technology, automatic control system and cloud computing, as well as their applications in wireless sensor network, embedded system, programmable logic controller etc.
