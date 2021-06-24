@@ -152,8 +152,7 @@ header:
 
 **Curriculum:**
 
-Tien Cao-hoang obtained his Master degree in Automatic Control Engineering in February 2014 at Faculty of Electrical & Electronics Engineering, [Ho Chi Minh City University of Technology](http://www.hcmut.edu.vn/en), Ho Chi Minh city, Vietnam. From 2012, he has been working as a lecturer at [Can Tho University](http://ctu.edu.vn/en). His research interests include internet of things, comunication technology, automatic control system and cloud computing, as well as their applications in wireless sensor network, embedded system, programmable logic controller etc.
-
+Hoang-Tien Cao (Tien Cao-hoang) currently is PhD student at [Mechanical Engineering Department, National Central University, Taiwan](https://www.me.ncu.edu.tw/). He obtained his Master degree in Automatic Control Engineering in February 2014 at Faculty of Electrical & Electronics Engineering, [Ho Chi Minh City University of Technology](http://www.hcmut.edu.vn/en), Ho Chi Minh city, Vietnam. From 2012, he has been working as a lecturer at [Can Tho University](http://ctu.edu.vn/en). His research interests include internet of things, comunication technology, automatic control system and cloud computing, as well as their applications in wireless sensor network, embedded system, programmable logic controller etc.
 
 ## Projects: 
 
@@ -164,6 +163,8 @@ Tien Cao-hoang obtained his Master degree in Automatic Control Engineering in Fe
 The 3rd prize at The 6th Science and Technology Forum (the project: Monitoring and Controlling system Used in Agriculture)
 
 ## Publications
+
+Cao-Hoang T., Su K.A., Pham Van T.T., Pham V.T., Nguyen D.C., Mizoguchi M. (2021) Soil Moisture Monitoring System Based on LoRa Network to Support Agricultural Cultivation in Drought Season. In: Phuong N.H., Kreinovich V. (eds) Soft Computing: Biomedical and Related Applications. Studies in Computational Intelligence, vol 981. Springer, Cham. [https://doi.org/10.1007/978-3-030-76620-7_14](https://doi.org/10.1007/978-3-030-76620-7_14)
 
 Tien Cao-Hoang, Trong Tinh Pham Van, Can Nguyen Duy, "Design of a Cost Effective Soil Monitoring System to Support Agricultural Activities for Smallholder", International Journal of Information Communication Technology and Digital Convergence (IJICTDC), 2017, 2(2), pp. 1-5[(Link)](http://kasdba.org/ijictdc/documents/vol2no2/1.Revised_Ten_Cao_Hoang__JICTDC2017.pdf)
 
