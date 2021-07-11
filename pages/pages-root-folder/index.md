@@ -9,7 +9,7 @@ header:
   image_fullwidth: cropped-samurai.jpg
 widget1:
   title: "Documentation"
-  url: '#'
+  url: ''
   image: widget-datsach.jpg
   text: ''
 
