@@ -9,9 +9,9 @@ header:
   image_fullwidth: cropped-samurai.jpg
 widget1:
   title: "Documentation"
-  url: 'https://chtien18.github.io/docs'
+  url: '#'
   image: widget-datsach.jpg
-  text: 'Python, Arduino, Raspberry Pi, Internet of Things - IoT,...'
+  text: ''
 
 widget2:
   title: "Learn"
@@ -35,11 +35,11 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-callforaction:
-  url: https://eitalab.com/category/khoa-hoc/
-  text: Read more.
-  style: alert
-permalink: /index.html
+#callforaction:
+#  url: https://eitalab.com/category/khoa-hoc/
+#  text: Read more.
+#  style: alert
+#permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
