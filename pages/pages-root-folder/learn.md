@@ -8,13 +8,8 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 
-## jounals:
-
-* [MDPI](http://www.mdpi.com/about/journals)
-
-* [Scientific Research](http://www.scirp.org/journal/OJSS/)
-
-* [PlosOne](https://www.plos.org/)
-
 ## MATLAB
 * [Matlab basic for automation engineer](http://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=SystemModeling)
+
+## Linear Algebra
+* [MIT Open Course Ware](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
