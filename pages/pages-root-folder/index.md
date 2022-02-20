@@ -11,13 +11,13 @@ widget1:
   title: "Documentation"
   url: ''
   image: widget-datsach.jpg
-  text: 'Python, Arduino, Raspberry Pi, Internet of Things - IoT,...'
+  text: '...'
 
 widget2:
   title: "Learn"
   url: 'https://chtien18.github.io/learn/'
   image: widget-phanbon.jpg
-  text: '<a href="https://github.com/chtien18/chtien18.github.io">Tin học căn bản</a>'
+  text: '...'
 #  video: '<a href="#" data-reveal-id="videoModal"><img src="/images/" width="302" height="182" alt=""/></a>'
 widget3:
   title: "Family"
