@@ -133,14 +133,14 @@ header:
 </style>
 ## Biography
 
-**Full name:** Cao Hoàng Tiến (Tien Cao-hoang)
+**Full name:** Cao Hoàng Tiến (Hoang-Tien Cao)
 
 **Social:**  <a href="https://facebook.com/tien.cao.71" class="fab fa-facebook"></a>
 <a href="https://twitter.com/chtien18" class="fab fa-twitter"></a>
 <a href="https://www.linkedin.com/in/chtien/" class="fab fa-linkedin"></a>
 <a href="https://github.com/chtien18/chtien18.github.io" class="fab fa-github"></a>
 
-**Affiliation:** Tien Cao-hoang is lecturer and researcher at [Can Tho University](http://ctu.edu.vn/en)
+**Affiliation:** Hoang-Tien Cao is lecturer and researcher at [Can Tho University](http://ctu.edu.vn/en)
 
 **Research ID:**  [ORCID](http://orcid.org/0000-0001-9863-2716), 
 [Researcher ID](http://www.researcherid.com/rid/M-3147-2017), 
