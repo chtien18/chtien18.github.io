@@ -1,3 +1,16 @@
+---
+layout: page-fullwidth
+title:  " Machine learning model"
+subheadline:  " "
+teaser: " Machine learning model"
+categories: 
+   - study
+header:
+   image_fullwidth: header_unsplash_leaf.jpg
+
+image: header_unsplash_leaf.jpg
+---
+
 ### Machine learning model
 Buid a basic machine learning model using scikit-learn library.
 Loading iowa_housing_data (download).
