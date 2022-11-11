@@ -14,7 +14,7 @@ image: header_unsplash_leaf.jpg
 ### Machine learning model
 Buid a basic machine learning model using scikit-learn library.
 
-Loading iowa_housing_data (download).
+Loading iowa_housing_data ([download](https://github.com/chtien18/chtien18.github.io/blob/master/data/home_data_for_ml/train.csv)).
 
     # Path of the file to read
     iowa_file_path = '../train.csv'
@@ -50,6 +50,7 @@ Select the target variable, which is the sales price. Save this to a new variabl
     y = home_data['SalePrice']
 
 Create input feature - X
+
 Creating a DataFrame called X holding the predictive features.
 We will use the following features instead of the whole data features to make a prediction:
 
