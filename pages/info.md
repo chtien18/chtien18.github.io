@@ -147,20 +147,9 @@ header:
 [Scopus review](https://www.scopus.com/authid/detail.uri?authorId=57194439094),
 [Google Scholar](https://scholar.google.com.vn/citations?user=E6qOG58AAAAJ&hl=en)
 
-**Membership:**
-[INSTICC](http://www.insticc.org/Portal/home.aspx)
-
 **Curriculum:**
 
 Hoang-Tien Cao (Tien Cao-hoang) currently is PhD student at [Mechanical Engineering Department, National Central University, Taiwan](https://www.me.ncu.edu.tw/). He obtained his Master degree in Automatic Control Engineering in February 2014 at Faculty of Electrical & Electronics Engineering, [Ho Chi Minh City University of Technology](http://www.hcmut.edu.vn/en), Ho Chi Minh city, Vietnam. From 2012, he has been working as a lecturer at [Can Tho University](http://ctu.edu.vn/en). His research interests include internet of things, comunication technology, automatic control system and cloud computing, as well as their applications in wireless sensor network, embedded system, programmable logic controller etc.
-
-## Projects: 
-
-[AgriNode](https://agrinode.github.io) (Agricultural Wireless Sensor Network) is the first project that I paticipated in Open IoT Challenge and recieved [a special acknowledgement](https://www.eclipse.org/org/press-release/openiotchallenge3_winners.php) from [Eclipse IoT Foudation](https://eclipse.org/iot).
-
-## Award
-
-The 3rd prize at The 6th Science and Technology Forum (the project: Monitoring and Controlling system Used in Agriculture)
 
 ## Publications
 
