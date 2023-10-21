@@ -135,10 +135,10 @@ header:
 
 **Full name:** Cao Hoàng Tiến (Hoang-Tien Cao)
 
-**Social:**  <a href="https://facebook.com/tien.cao.71" class="fa fa-facebook"></a>
-<a href="https://twitter.com/chtien18" class="fab fa-twitter"></a>
-<a href="https://www.linkedin.com/in/chtien/" class="fab fa-linkedin"></a>
-<a href="https://github.com/chtien18/chtien18.github.io" class="fab fa-github"></a>
+**Social:**  <a href="https://facebook.com/tien.cao.71"><i class="fa fa-facebook"></i></li></a>
+<a href="https://twitter.com/chtien18"><i class="fa fa-twitter"></i></li></a>
+<a href="https://www.linkedin.com/in/chtien/"><i class="fa fa-linkedid"></i></li></a>
+<a href="https://github.com/chtien18/chtien18.github.io"><i class="fa fa-github"></i></li></a>
 
 **Affiliation:** Hoang-Tien Cao is lecturer and researcher at [Can Tho University](http://ctu.edu.vn/en)
 
