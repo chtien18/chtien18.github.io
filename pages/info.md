@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 title: "About"
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 subheadline: ""
 teaser: ""
 permalink: "/info/"
@@ -135,7 +136,7 @@ header:
 
 **Full name:** Cao Hoàng Tiến (Hoang-Tien Cao)
 
-**Social:**  <a href="https://facebook.com/tien.cao.71" class="fab fa-facebook"></a>
+**Social:**  <a href="https://facebook.com/tien.cao.71"><i class="fa fa-facebook"></i></li></a>
 <a href="https://twitter.com/chtien18" class="fab fa-twitter"></a>
 <a href="https://www.linkedin.com/in/chtien/" class="fab fa-linkedin"></a>
 <a href="https://github.com/chtien18/chtien18.github.io" class="fab fa-github"></a>
