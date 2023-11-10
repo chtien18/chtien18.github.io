@@ -153,7 +153,7 @@ Hoang-Tien Cao (Tien Cao-hoang) currently is PhD student at [Mechanical Engineer
 
 ## Publications
 
-Hoang-Tien Cao, Jeng-Rong Ho, Pi-Cheng Tung, Yuan-Ting Lin, Chih-Kuang Lin, Machined quality prediction and optimization for micro-EDM drilling of semi-conductive SiC wafer, Materials Science in Semiconductor Processing, 169 (2024) 107911.[https://doi.org/10.1016/j.mssp.2023.107911](https://doi.org/10.1016/j.mssp.2023.107911)
+Hoang-Tien Cao, Jeng-Rong Ho, Pi-Cheng Tung, Yuan-Ting Lin, Chih-Kuang Lin, Machined quality prediction and optimization for micro-EDM drilling of semi-conductive SiC wafer, Materials Science in Semiconductor Processing, 169 (2024) 107911. [https://doi.org/10.1016/j.mssp.2023.107911](https://doi.org/10.1016/j.mssp.2023.107911)
 
 Cao-Hoang T., Su K.A., Pham Van T.T., Pham V.T., Nguyen D.C., Mizoguchi M. (2021) Soil Moisture Monitoring System Based on LoRa Network to Support Agricultural Cultivation in Drought Season. In: Phuong N.H., Kreinovich V. (eds) Soft Computing: Biomedical and Related Applications. Studies in Computational Intelligence, vol 981. Springer, Cham. [https://doi.org/10.1007/978-3-030-76620-7_14](https://doi.org/10.1007/978-3-030-76620-7_14)
 
