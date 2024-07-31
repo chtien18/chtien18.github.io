@@ -9,4 +9,4 @@ permalink: "/projects/"
 ---
 ### Projects
 
-[AgriNode - Wireless Sensor Network for Agricultural applications](https://agrinode.blogspot.com)
+
