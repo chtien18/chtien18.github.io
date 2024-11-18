@@ -25,11 +25,11 @@ class_names = ['T-shirt/top', 'Trouser', 'Pullover', 'Dress', 'Coat',
 
 #show dataset
 plt.figure()
-plt.imshow(train_images[100])
+plt.imshow(train_images[5])
 plt.colorbar()
 plt.grid(False)
 plt.show()
-print(class_names[train_labels[100]])
+print(class_names[train_labels[5]])
 
 #normalize dataset
 train_images = train_images / 255.0
@@ -37,11 +37,11 @@ test_images = test_images / 255.0
 
 #show dataset again
 plt.figure()
-plt.imshow(train_images[100])
+plt.imshow(train_images[5])
 plt.colorbar()
 plt.grid(False)
 plt.show()
-print(class_names[train_labels[100]])
+print(class_names[train_labels[5]])
 
 
 
@@ -58,7 +58,7 @@ plt.show()
 
 #define model
 model = tf.keras.Sequential([
-    tf.keras.layers.Flatten(input_shape=(28, 28)),
+    tf.keras.layers.Flatten(input_shape=(28,28)),
     tf.keras.layers.Dense(128, activation='relu'),
     tf.keras.layers.Dense(10)
 ])
@@ -115,7 +115,7 @@ def plot_value_array(i, predictions_array, true_label):
   thisplot[predicted_label].set_color('red')
   thisplot[true_label].set_color('blue')
   
-i = 10
+i = 6
 predictions[i]
 np.argmax(predictions[i])
 test_labels[i]
