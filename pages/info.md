@@ -8,7 +8,7 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 <style>
-<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+
 .fa, .fab {
   padding: 10px;
   font-size: 20px;
@@ -132,6 +132,8 @@ header:
 }
 
 </style>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+
 ## Biography
 
 **Full name:** Cao Hoàng Tiến (Hoang-Tien Cao)
