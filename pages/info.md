@@ -148,7 +148,8 @@ header:
 **Research ID:**  [ORCID](http://orcid.org/0000-0001-9863-2716), 
 [Researcher ID](http://www.researcherid.com/rid/M-3147-2017), 
 [Scopus review](https://www.scopus.com/authid/detail.uri?authorId=57194439094),
-[Google Scholar](https://scholar.google.com.vn/citations?user=E6qOG58AAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com.vn/citations?user=E6qOG58AAAAJ&hl=en),
+[Research Gate](https://www.researchgate.net/profile/Hoang-Tien-Cao)
 
 **Curriculum:**
 
