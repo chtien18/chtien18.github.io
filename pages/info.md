@@ -153,8 +153,13 @@ header:
 Hoang-Tien Cao (Tien Cao-hoang) currently is PhD student at [Mechanical Engineering Department, National Central University, Taiwan](https://www.me.ncu.edu.tw/). He obtained his Master degree in Automatic Control Engineering in February 2014 at Faculty of Electrical & Electronics Engineering, [Ho Chi Minh City University of Technology](http://www.hcmut.edu.vn/en), Ho Chi Minh city, Vietnam. From 2012, he has been working as a lecturer at [Can Tho University](http://ctu.edu.vn/en). His research interests include internet of things, comunication technology, automatic control system and cloud computing, as well as their applications in wireless sensor network, embedded system, programmable logic controller etc.
 
 ## Publications
+
 | Metric | Publication |
 | --- | --- |
+| 1 | 2 |
+
+hedding
+
 | <a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.mssp.2024.109118" data-popup="bottom" data-size="medium" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Characterization of machined surface in semi-conductive SiC wafer subjected to micro-EDM drilling</a> | Hoang-Tien Cao, Jeng-Rong Ho, Pi-Cheng Tung, Hai-Ping Tsui, Chih-Kuang Lin, Characterization of machined surface in semi-conductive SiC wafer subjected to micro-EDM drilling, Materials Science in Semiconductor Processing, 187 (2025) 109118. [https://doi.org/10.1016/j.mssp.2024.109118](https://doi.org/10.1016/j.mssp.2024.109118) |
 
 | . |Hoang-Tien Cao, Tsung-Yang Lee, Chen-Jui Lee, Hai-Ping Hsui, Chih-Kuang Lin, Deep Neural Network Based Prediction of Machined Quality in Electrochemical Discharge Drilling of Sapphire Wafer, 5th International Conference on Machining, Materials and Mechanical Technologies (IC3MT2024), Phan Thiet City, Vietnam, September 11th – 15th, 2024, pp. 157-158.[(link)](researchgate.net/profile/Hoang-Tien-Cao/publication/384073774_Deep_Neural_Network_Based_Prediction_of_Machined_Quality_in_Electrochemical_Discharge_Drilling_of_Sapphire_Wafer/links/66e978990463442fa8533ea7/Deep-Neural-Network-Based-Prediction-of-Machined-Quality-in-Electrochemical-Discharge-Drilling-of-Sapphire-Wafer.pdf) |
