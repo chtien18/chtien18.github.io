@@ -8,6 +8,7 @@ header:
     image_fullwidth: "header_drop.jpg"
 ---
 <style>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 .fa, .fab {
   padding: 10px;
   font-size: 20px;
