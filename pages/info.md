@@ -153,7 +153,7 @@ header:
 
 **Curriculum:**
 
-Hoang-Tien Cao (Tien Cao-hoang) currently is PhD student at [Mechanical Engineering Department, National Central University, Taiwan](https://www.me.ncu.edu.tw/). He obtained his Master degree in Automatic Control Engineering in February 2014 at Faculty of Electrical & Electronics Engineering, [Ho Chi Minh City University of Technology](http://www.hcmut.edu.vn/en), Ho Chi Minh city, Vietnam. From 2012, he has been working as a lecturer at [Can Tho University](http://ctu.edu.vn/en). His research interests include internet of things, comunication technology, automatic control system and cloud computing, as well as their applications in wireless sensor network, embedded system, programmable logic controller etc.
+Hoang-Tien Cao (Tien Cao-hoang) is currently a lecturer and researcher at [the Faculty of Mechanical Engineering, Can Tho University, Vietnam](https://en.ctu.edu.vn/). He obtained his PhD degree in [Mechanical Engineering Department, National Central University, Taiwan](https://www.me.ncu.edu.tw/). He obtained his Master degree in Automatic Control Engineering in February 2014 at Faculty of Electrical & Electronics Engineering, [Ho Chi Minh City University of Technology](http://www.hcmut.edu.vn/en), Ho Chi Minh city, Vietnam. From 2012, he has been working as a lecturer at [Can Tho University](http://ctu.edu.vn/en). His research interests include internet of things, comunication technology, automatic control system and cloud computing, as well as their applications in wireless sensor network, embedded system, programmable logic controller etc.
 
 ## Publications
 
