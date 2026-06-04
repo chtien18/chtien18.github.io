@@ -151,7 +151,7 @@ _Image Caption_
 To prevent the page content layout from shifting when the image is loaded, we should set the width and height for each image.
 
 ```markdown
-![Desktop View](/assets/img/sample/mockup.png){: width="700" height="400" }
+
 ```
 {: .nolineno}
 
@@ -161,7 +161,7 @@ To prevent the page content layout from shifting when the image is loaded, we sh
 Starting from _Chirpy v5.0.0_, `height` and `width` support abbreviations (`height` → `h`, `width` → `w`). The following example has the same effect as the above:
 
 ```markdown
-![Desktop View](/assets/img/sample/mockup.png){: w="700" h="400" }
+
 ```
 {: .nolineno}
 
@@ -170,48 +170,10 @@ Starting from _Chirpy v5.0.0_, `height` and `width` support abbreviations (`heig
 By default, the image is centered, but you can specify the position by using one of the classes `normal`, `left`, and `right`.
 
 > Once the position is specified, the image caption should not be added.
-{: .prompt-warning }
 
-- **Normal position**
-
-  The image will be left aligned in the below sample:
-
-  ```markdown
-  ![Desktop View](/assets/img/sample/mockup.png){: .normal }
-  ```
-  {: .nolineno}
-
-- **Float to the left**
-
-  ```markdown
-  ![Desktop View](/assets/img/sample/mockup.png){: .left }
-  ```
-  {: .nolineno}
-
-- **Float to the right**
-
-  ```markdown
-  ![Desktop View](/assets/img/sample/mockup.png){: .right }
-  ```
-  {: .nolineno}
-
-#### Dark/Light mode
-
-You can make images follow theme preferences in dark/light mode. This requires you to prepare two images, one for dark mode and one for light mode, and then assign them a specific class (`dark` or `light`):
-
-```markdown
-![Light mode only](/path/to/light-mode.png){: .light }
-![Dark mode only](/path/to/dark-mode.png){: .dark }
-```
 
 #### Shadow
 
-The screenshots of the program window can be considered to show the shadow effect:
-
-```markdown
-![Desktop View](/assets/img/sample/mockup.png){: .shadow }
-```
-{: .nolineno}
 
 #### Preview Image
 
@@ -252,9 +214,7 @@ image:
 
 For normal images:
 
-```markdown
-![Image description](/path/to/image){: lqip="/path/to/lqip-file" }
-```
+
 {: .nolineno }
 
 ### Social Media Platforms
