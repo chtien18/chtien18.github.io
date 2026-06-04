@@ -131,7 +131,7 @@ order: 5
 }
 
 </style>
-<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<script type="text/javascript" src="https://cdn.plu.mx/widget-popup.js"></script>
 
 ## Biography
 
