@@ -29,7 +29,7 @@ Hoang-Tien Cao (Tien Cao-hoang) is currently a lecturer and researcher at [the F
 
 ## Publications
 
-<div style="overflow-x: auto; width: 100%;">
+<div style="overflow-x: auto; width: 100%;" markdown="1">
 
 | Metric | Publication |
 | --- | --- |
