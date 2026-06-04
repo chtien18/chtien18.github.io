@@ -1,7 +1,10 @@
 ---
-# the default layout is 'page'
+layout: page
+title: Info
 icon: fas fa-info-circle
 order: 5
 ---
 
-### Info
+### Welcome to my Info page
+
+You can write whatever you want here using standard Markdown!
