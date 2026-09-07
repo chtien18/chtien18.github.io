@@ -37,6 +37,15 @@ Hoang-Tien Cao (Tien Cao-hoang) is currently a lecturer and researcher at [the F
 
 <!-- List of items -->
 <ul style="list-style-type: none; padding-left: 0; margin-left: 0;">
+  <!-- Item 1 -->
+  <li style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px dashed var(--main-border-color); word-wrap: break-word;">
+    <div style="flex: 1; min-width: 140px; max-width: 160px; padding-right: 15px; margin-bottom: 0.5rem;">
+      <a href="https://plu.mx/plum/a/?doi=10.1080/02533839.2026.2619704" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">PlumX Metrics</a>
+    </div>
+    <div style="flex: 3; min-width: 250px;">
+      Hoang-Tien Cao, Dinh-Tu Nguyen, Huynh Thanh Thuong, <strong>Artificial intelligence-based predictive modeling of surface roughness in external turning of C45 steel</strong>, <em>Journal of the Chinese Institute of Engineers</em>, 49 (2026) 1-13. <a href="https://doi.org/10.1080/02533839.2026.2619704" target="_blank" rel="noopener">DOI Link</a>
+    </div>
+  </li>
 
   <!-- Item 1 -->
   <li style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px dashed var(--main-border-color); word-wrap: break-word;">
