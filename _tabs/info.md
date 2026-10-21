@@ -37,6 +37,17 @@ Hoang-Tien Cao (Tien Cao-hoang) is currently a lecturer and researcher at [the F
 
 <!-- List of items -->
 <ul style="list-style-type: none; padding-left: 0; margin-left: 0;">
+
+  <!-- Item 1 -->
+  <li style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px dashed var(--main-border-color); word-wrap: break-word;">
+    <div style="flex: 1; min-width: 140px; max-width: 160px; padding-right: 15px; margin-bottom: 0.5rem;">
+      <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-92-5641-9_15" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">PlumX Metrics</a>
+    </div>
+    <div style="flex: 3; min-width: 250px;">
+      Cao, HT., Nguyen, DT., Thuong, H.T., Nguyen, CK.  <strong>Physics-Informed Neural Networks for Predicting Temperature Distribution and Crater Geometry of Single Discharge Spark in Electric Discharge Machining. In: Honda, K., et al. Integrated Uncertainty in Knowledge Modelling and Decision Making. IUKM 2026.</strong>, <em>MLecture Notes in Computer Science</em>, Springer, Singapore,  16918 (2027) 178-190. <a href="https://doi.org/10.1007/978-981-92-5641-9_15" target="_blank" rel="noopener">DOI Link</a>
+    </div>
+  </li>
+
   <!-- Item 1 -->
   <li style="display: flex; flex-wrap: wrap; margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 1px dashed var(--main-border-color); word-wrap: break-word;">
     <div style="flex: 1; min-width: 140px; max-width: 160px; padding-right: 15px; margin-bottom: 0.5rem;">
